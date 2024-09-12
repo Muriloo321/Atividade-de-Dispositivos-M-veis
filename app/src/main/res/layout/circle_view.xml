@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.atividadepratica2.CircleView
+        android:id="@+id/circleView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:CircleColor="#0000ff"
+        app:TextColor="#ffff00"
+        app:Radius="100dp"
+        app:XC="50dp"
+        app:YC="50dp"/>
+</LinearLayout>

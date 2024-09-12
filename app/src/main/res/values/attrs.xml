@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="CircleView">
+        <attr name="CircleColor" format="color"/>
+        <attr name="Radius" format="dimension"/>
+        <attr name="TextColor" format="color"/>
+        <attr name="XC" format="dimension"/>
+        <attr name="YC" format="dimension"/>
+    </declare-styleable>
+</resources>
